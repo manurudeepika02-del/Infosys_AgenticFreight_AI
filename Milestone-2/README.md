@@ -173,8 +173,8 @@ Ask anything, e.g. *"Explain in 2 sentences why port congestion increases freigh
 ## 📸 ScreenShots :
 
 ### 🏠 Home Page
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/0699ba04-7d96-4668-a5ba-cee5eb03821e" />
 
-<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/2e0160b2-e3d2-4c66-8ac8-ba51b6f825fd" />
 
 
 ### 💬 AI Copilot
