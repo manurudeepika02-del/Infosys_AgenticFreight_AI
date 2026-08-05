@@ -1,3 +1,4 @@
+<img width="1024" height="640" alt="admin_dashboard" src="https://github.com/user-attachments/assets/af270316-c56e-4f72-9f77-e0ccd5b9d7bd" />
 # 🚢 FreightQuote AI – Enterprise AI-Powered Maritime Brokerage Platform
 
 > **Infosys Springboard Internship Project – Milestone 3**
@@ -519,73 +520,84 @@ Access the application in your web browser at `http://localhost:8501`.
 
 ## Login
 
-![Login](screenshots/login.png)
+<img width="1024" height="640" alt="login" src="https://github.com/user-attachments/assets/0de16c98-aba5-4170-b096-43b1ef190d67" />
+
 
 ---
 
 ## User Registration
 
-![Registration](screenshots/register.png)
+<img width="1024" height="640" alt="register" src="https://github.com/user-attachments/assets/f7d29a6a-167a-4c04-aa0c-6654b5572bd0" />
+
 
 ---
 
 ## Email OTP Verification
 
-![OTP Verification](screenshots/otp.png)
+<img width="1024" height="640" alt="otp" src="https://github.com/user-attachments/assets/e1f351ef-faad-4dd3-834d-7c57a2ddb0c6" />
+
 
 ---
 
 ## Forgot Password
 
-![Forgot Password](screenshots/forgot_password.png)
+<img width="1024" height="640" alt="forgot_password" src="https://github.com/user-attachments/assets/dfdb1a1b-73a6-4513-a412-c446eeffa47c" />
+
 
 ---
 
 ## User Dashboard
 
-![User Dashboard](screenshots/user_dashboard.png)
+<img width="1024" height="640" alt="user_dashboard" src="https://github.com/user-attachments/assets/1973245a-bc45-46ad-91ad-3197bad7b6ee" />
+
 
 ---
 
 ## AI Copilot
 
-![AI Copilot](screenshots/ai_copilot.png)
+<img width="1024" height="640" alt="ai_copilot" src="https://github.com/user-attachments/assets/24751f82-9578-4119-b70a-e2e60ada4fa8" />
+
 
 ---
 
 ## Freight Price Prediction
 
-![Freight Prediction](screenshots/freight_prediction.png)
+<img width="1024" height="640" alt="freight_prediction" src="https://github.com/user-attachments/assets/f4680a87-14f8-4dc4-84b7-a08f3256dfbc" />
+
 
 ---
 
 ## Route & Weather Analysis
 
-![Route & Weather](screenshots/route_weather.png)
+<img width="1024" height="640" alt="route_weather" src="https://github.com/user-attachments/assets/385a51f8-c1c7-49c3-9ffc-b71adf45142e" />
+
 
 ---
 
 ## Carrier Audit
 
-![Carrier Audit](screenshots/carrier_audit.png)
+<img width="1024" height="640" alt="carrier_audit" src="https://github.com/user-attachments/assets/485c7688-09e1-4eca-b13e-fcc5b57027ed" />
+
 
 ---
 
 ## Admin Dashboard
 
-![Admin Dashboard](screenshots/admin_dashboard.png)
+<img width="1024" height="640" alt="admin_dashboard" src="https://github.com/user-attachments/assets/5fa2540e-f613-4732-ba63-af1f6b907207" />
 
 ---
 
 ## RAG Knowledge Base
 
-![RAG Knowledge Base](screenshots/rag_knowledge_base.png)
+<img width="1024" height="640" alt="rag_knowledge_base" src="https://github.com/user-attachments/assets/be4ab7a6-e6d2-4ff3-b12b-f00e99135d23" />
+
 
 ---
 
 ## Semantic Search Results
 
-![Semantic Search](screenshots/semantic_search.png)
+<img width="1024" height="640" alt="semantic_search" src="https://github.com/user-attachments/assets/8b4713f5-5244-439d-a3e7-43f9f8c26b56" />
+
 
 ---
 
