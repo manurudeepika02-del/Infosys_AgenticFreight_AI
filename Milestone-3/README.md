@@ -1,4 +1,4 @@
-<img width="1024" height="640" alt="admin_dashboard" src="https://github.com/user-attachments/assets/af270316-c56e-4f72-9f77-e0ccd5b9d7bd" />
+
 # 🚢 FreightQuote AI – Enterprise AI-Powered Maritime Brokerage Platform
 
 > **Infosys Springboard Internship Project – Milestone 3**
