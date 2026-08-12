@@ -7,45 +7,29 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/manurudeepika02-del/Infosys_FreightQuote_AI/blob/main/Login_Page.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/manurudeepika02-del/Infosys_FreightQuote_AI/blob/main/Milestone-1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": 9,
       "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "lEaaeUC8vgN9",
-        "outputId": "df8d4696-6d28-4730-cdd1-cda85966b573"
+        "id": "lEaaeUC8vgN9"
       },
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m10.3/10.3 MB\u001b[0m \u001b[31m57.4 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\n",
-            "\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m829.3/829.3 kB\u001b[0m \u001b[31m20.6 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\n",
-            "\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m278.2/278.2 kB\u001b[0m \u001b[31m9.2 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\n",
-            "\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m11.4/11.4 MB\u001b[0m \u001b[31m52.6 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\n",
-            "\u001b[?25h"
-          ]
-        }
-      ],
+      "outputs": [],
       "source": [
         "!pip install -q streamlit streamlit-option-menu pyngrok pyjwt bcrypt plotly"
       ]
     },
     {
       "cell_type": "code",
-      "execution_count": 21,
+      "execution_count": 10,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "X9rubUMJBtHO",
-        "outputId": "687921cb-18fb-43f5-b3d6-af26f48da0d8"
+        "outputId": "fa3091cc-b0b6-4ed5-90c7-3a6ccde8591e"
       },
       "outputs": [
         {
@@ -72,8 +56,8 @@
         "\n",
         "def send_otp_email(to_email, otp):\n",
         "    try:\n",
-        "        msg = MIMEText(f\"Your Infosys Freight Quote Portal verification code is: {otp}\\n\\nThis code expires in 5 minutes.\")\n",
-        "        msg[\"Subject\"] = \"Infosys Freight Quote Portal - Password Reset OTP\"\n",
+        "        msg = MIMEText(f\"Your Infosys Agentic AI Portal verification code is: {otp}\\n\\nThis code expires in 5 minutes.\")\n",
+        "        msg[\"Subject\"] = \"Infosys Agentic AI Portal - Password Reset OTP\"\n",
         "        msg[\"From\"] = SMTP_EMAIL\n",
         "        msg[\"To\"] = to_email\n",
         "        with smtplib.SMTP(\"smtp.gmail.com\", 587) as server:\n",
@@ -92,7 +76,7 @@
         "with open(\".streamlit/config.toml\", \"w\") as f:\n",
         "    f.write('[theme]\\nbase=\"light\"\\nprimaryColor=\"#c9a24b\"\\nbackgroundColor=\"#f4f5f7\"\\nsecondaryBackgroundColor=\"#ffffff\"\\ntextColor=\"#1b2436\"\\n')\n",
         "\n",
-        "st.set_page_config(page_title=\"Infosys Freight Quote Portal\", page_icon=\"🏛️\", layout=\"wide\", initial_sidebar_state=\"expanded\")\n",
+        "st.set_page_config(page_title=\"Infosys Agentic AI Portal\", page_icon=\"🏛️\", layout=\"wide\", initial_sidebar_state=\"expanded\")\n",
         "\n",
         "COLORS = {\n",
         "    \"navy_deep\":   \"#0b1530\",\n",
@@ -230,7 +214,7 @@
         "    st.markdown(f\"\"\"\n",
         "    <div style=\"text-align:center;padding:1.2rem 0 0.6rem;\">\n",
         "        <div style=\"font-size:34px;margin-bottom:6px;\">🏛️</div>\n",
-        "        <h1 style=\"font-size:2rem !important;margin:0;\">Infosys Freight Quote Portal</h1>\n",
+        "        <h1 style=\"font-size:2rem !important;margin:0;\">Infosys Agentic AI Portal</h1>\n",
         "        <p style=\"color:{COLORS['text_muted']};font-size:13px;margin:4px 0 0;letter-spacing:0.5px;\">{sub}</p>\n",
         "    </div>\n",
         "    <div class=\"divider-gold\" style=\"max-width:120px;margin-left:auto;margin-right:auto;\"></div>\n",
@@ -261,7 +245,7 @@
         "            if col_r.button(\"Forgot Password\", use_container_width=True): navigate(\"Forgot\")\n",
         "\n",
         "        elif st.session_state.page == \"Signup\":\n",
-        "            auth_header(\"Create an account\", \"Join Infosys Freight Quote Portal today\")\n",
+        "            auth_header(\"Create an account\", \"Join Infosys Agentic AI Portal today\")\n",
         "            uname = st.text_input(\"Full name / Username\", placeholder=\"Jane Doe\")\n",
         "            email = st.text_input(\"Email address\", placeholder=\"you@infosys.com\").lower().strip()\n",
         "            pwd = st.text_input(\"Password\", type=\"password\", placeholder=\"Min. 8 characters\")\n",
@@ -406,7 +390,7 @@
         "        st.markdown(f\"\"\"\n",
         "        <div style=\"padding:20px 8px;text-align:center;\">\n",
         "            <div style=\"font-size:26px;\">🏛️</div>\n",
-        "            <div style=\"font-weight:700;font-size:16px;font-family:'Playfair Display',serif;color:#ffffff;\">Infosys Freight Quote Portal</div>\n",
+        "            <div style=\"font-weight:700;font-size:16px;font-family:'Playfair Display',serif;color:#ffffff;\">Infosys Agentic AI Portal</div>\n",
         "            <div style=\"font-size:11px;color:#b7bfd6;letter-spacing:0.5px;\">{\"ADMIN PANEL\" if email==\"infosys@ai\" else \"ENTERPRISE ANALYTICS\"}</div>\n",
         "        </div><hr style=\"border-color:{COLORS['gold']};opacity:0.3;\">\n",
         "        \"\"\", unsafe_allow_html=True)\n",
@@ -429,7 +413,7 @@
         "    if email == \"infosys@ai\":\n",
         "        st.markdown(f\"\"\"\n",
         "        <div style=\"background:{header_bg};border-radius:12px;padding:24px 32px;display:flex;justify-content:space-between;align-items:center;margin-bottom:24px;border-bottom:3px solid {COLORS['gold']};\">\n",
-        "            <div><h1 class=\"freight-banner-title\" style=\"margin:0;font-size:24px !important;\">🏛️ Infosys Freight Quote Portal</h1><div style=\"color:#b7bfd6;font-size:13px;\">Admin Control Panel</div></div>\n",
+        "            <div><h1 class=\"freight-banner-title\" style=\"margin:0;font-size:24px !important;\">🏛️ Infosys Agentic AI Portal</h1><div style=\"color:#b7bfd6;font-size:13px;\">Admin Control Panel</div></div>\n",
         "            <div style=\"background:{COLORS['gold']};padding:8px 18px;border-radius:6px;font-weight:700;color:{COLORS['navy_deep']};\">🛡️ {uname}</div>\n",
         "        </div>\n",
         "        \"\"\", unsafe_allow_html=True)\n",
@@ -444,7 +428,7 @@
         "    else:\n",
         "        st.markdown(f\"\"\"\n",
         "        <div style=\"background:{header_bg};border-radius:12px;padding:24px 32px;display:flex;justify-content:space-between;align-items:center;margin-bottom:24px;border-bottom:3px solid {COLORS['gold']};\">\n",
-        "            <div><h1 class=\"freight-banner-title\" style=\"margin:0;font-size:24px !important;\">🏛️ Infosys Freight Quote Portal</h1><div style=\"color:#b7bfd6;font-size:13px;\">Enterprise Analytics Dashboard</div></div>\n",
+        "            <div><h1 class=\"freight-banner-title\" style=\"margin:0;font-size:24px !important;\">🏛️ Infosys Agentic AI Portal</h1><div style=\"color:#b7bfd6;font-size:13px;\">Enterprise Analytics Dashboard</div></div>\n",
         "            <div style=\"background:{COLORS['gold']};padding:8px 18px;border-radius:6px;font-weight:700;color:{COLORS['navy_deep']};\">👤 {uname}</div>\n",
         "        </div>\n",
         "        \"\"\", unsafe_allow_html=True)\n",
@@ -469,13 +453,13 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 22,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "BcN65AfkvrX3",
-        "outputId": "e12e1912-5c0e-466a-e48c-7a5e4a77038c"
+        "outputId": "7241eb99-bf71-4c88-87df-bf54b48c4516"
       },
       "outputs": [
         {
@@ -485,11 +469,7 @@
             "============================================================\n",
             "🚀 Infosys Portal Live URL: https://snitch-disperser-sterling.ngrok-free.dev\n",
             "============================================================\n",
-            "⏳ App is running! Press [Ctrl + C] or the Colab Stop button to shut down.\n",
-            "\n",
-            "🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑\n",
-            "Received Ctrl+C / Stop signal. Shutting down...\n",
-            "✅ Ngrok tunnel closed and Streamlit server stopped gracefully.\n"
+            "⏳ App is running! Press [Ctrl + C] or the Colab Stop button to shut down.\n"
           ]
         }
       ],
@@ -537,7 +517,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 3,
+      "execution_count": null,
       "metadata": {
         "id": "3TX2u5Umvw6n"
       },
