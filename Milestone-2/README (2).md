@@ -173,41 +173,50 @@ Ask anything, e.g. *"Explain in 2 sentences why port congestion increases freigh
 ## 📸 ScreenShots :
 
 ### 🏠 Home Page
-<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/0699ba04-7d96-4668-a5ba-cee5eb03821e" />
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/8286eb6d-ef43-476f-a7ea-bf54090f1500" />
+
+
 
 
 
 ### 💬 AI Copilot
 
-<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/1cb1d1d0-f817-4b42-81e5-4b015c3834a0" />
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/d68af611-4618-4103-87bb-824ba3f6a962" />
+
 
 
 
 
 ### 💰 ML Pricing Calculator
-<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/8c7c4ab2-cd7b-44a6-a6ff-b0d7c227414d" />
+
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/061b186f-a3e4-4c0e-8bf1-1194ecf16755" />
+
 
 
 ### 📈 Admin — ML Model Card
 
-<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/7a0483b4-f85e-44de-a3cc-50657eeb9476" />
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/a1e8c438-4642-4cf4-a0e1-962016c211d8" />
+
 
 
 
 ### 👥 Admin — Add / Delete / Unlock User
-<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/88186ebe-51ca-420b-ae5e-9ce955d17c0f" />
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/4c999e46-340a-4f48-84d7-890500ef3bb5" />
+
 
 
 
 ### ⏱️ OTP Resend Cooldown
 
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/ca961a17-6719-4c40-9e6f-749632f42fe3" />
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/232566aa-448c-4981-b55a-c7b5d75cc0ed" />
+
 
 
 
 ### 🔒 Account Lockout Message
 
-<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/424e915c-8a58-43cc-9cbf-715cf56711f1" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/996f1298-e341-48db-9627-7e8ce1484391" />
+
 
 ---
 
