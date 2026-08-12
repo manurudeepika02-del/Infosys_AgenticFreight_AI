@@ -137,28 +137,36 @@ A default administrator account is seeded on first run for testing.
 ## Screenshots
 
 ### 1. Login Page
-![Login Page](screenshots/login_page.png)
+<img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/f893d018-3c2e-49db-bf0f-0f24a356c7f4" />
+
 
 ### 2. Login — Invalid Credentials
-![Invalid Login](screenshots/login_invalid.png)
+<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/14873c96-910e-4d28-9cb4-626b97e37f7d" />
+
 
 ### 3. Login — Success → Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/6f215226-b6f9-4d5d-8e4b-e7622eaf7677" />
+
 
 ### 4. Signup — Create Account
-![Signup Form](screenshots/signup_form.png)
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/309b3652-bb17-4c68-907d-221bfe53c882" />
+
 
 ### 5. Signup — Account Created
-![Account Created](screenshots/signup_success.png)
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/0761dd72-0cc4-4219-babb-71a32099bd94" />
+
 
 ### 6. Forgot Password — OTP Entry
-![OTP Entry](screenshots/otp_entry.png)
+<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/357fc263-3407-41c0-9094-fab4cb3d8280" />
+
 
 ### 7. OTP Email Received
-![OTP Email](screenshots/otp_email.png)
+<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/c571bfdf-8002-48f4-9339-666cb385a1ca" />
+
 
 ### 8. Password Reset — Success
-![Password Reset Success](screenshots/password_reset_success.png)
+<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/fcea17f0-2512-4a97-8f88-66365a401795" />
+
 
 > Place your screenshot files in a `screenshots/` folder alongside this README (or update the paths above to wherever they're hosted for submission).
 
