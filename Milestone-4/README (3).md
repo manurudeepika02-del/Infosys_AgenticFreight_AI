@@ -109,7 +109,8 @@ Together, these three notebooks form a complete pipeline: **data & model trainin
 
 ### 1. Login & Authentication
 
-<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/f2daf3e4-3025-42c9-9767-e365c2b9fc02" />
+<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/d9a3240d-8de5-459f-a6f9-be33d1be953d" />
+
 
 
 ### 2. Admin Dashboard
