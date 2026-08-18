@@ -108,63 +108,33 @@ Together, these three notebooks form a complete pipeline: **data & model trainin
 > Add screenshots under each subheading below to visually document the application.
 
 ### 1. Login & Authentication
-- Login page (Classic Navy & Gold theme)
-- OTP email verification screen
-- Registration form with security question
+
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/f2daf3e4-3025-42c9-9767-e365c2b9fc02" />
+
 
 ### 2. Admin Dashboard
-- System health cards (GPU, uptime, LLM status)
-- User lifecycle management panel
-- Live alert log
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/2e51aa64-4de3-4024-ba8d-9ef5aeab66a1" />
+
 
 ### 3. AI Copilot
-- Chat interface with a sample grounded query and response
+<img width="1920" height="1080" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/5976ab2a-129a-4e8b-9788-2a4258c0f300" />
 
-### 4. Route Intelligence (Agent 1)
-- Interactive port map with route overlay
+### 4. One Core Agent
 
-### 5. Freight Pricing & Margin (Agents 2 & 5)
-- Pricing engine dashboard with charts
-- Margin predictor output
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/eb21df5e-4319-453c-b6d7-eca1aab7a74e" />
 
-### 6. Carrier Performance (Agent 3)
-- Carrier capacity/performance charts
+### 5. Forgot Password/OTP flow
 
-### 7. Weather-Aware Risk (Agent 4)
-- Weather risk map/dashboard
+<img width="1920" height="1080" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/ae7a8a35-136b-4f7d-8c33-a2dbb9fbc730" />
 
-### 8. Customs & Compliance (Agent 6)
-- Tariff/customs lookup screen
 
-### 9. Document Management (Agent 7)
-- Digital Bill of Lading view
 
-### 10. Alerts & Translation Studio (Agent 8)
-- Real-time incident alert feed
-- Multilingual translation interface (showing 2–3 languages)
 
-### 11. PDF RAG Studio (Agent 9)
-- Document upload and Q&A result
 
-### 12. Anomaly Scanner
-- Isolation Forest anomaly results table/chart
 
-### 13. Knowledge Graph
-- Full knowledge graph visualization
 
-### 14. Digital Twin
-- Global freight network simulation view
 
-### 15. My Profile
-- User self-service profile page
 
-### 16. Data Pipeline & ML Trainer (Notebook)
-- Kaggle dataset download/merge logs
-- 10-model competition results/leaderboard per agent
-
-### 17. RAG Builder (Notebook)
-- PDF/web crawler discovery log
-- FAISS + BM25 index build confirmation
 
 ---
 
