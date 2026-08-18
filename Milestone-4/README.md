@@ -111,24 +111,56 @@ Together, these three notebooks form a complete pipeline: **data & model trainin
 
 <img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/d9a3240d-8de5-459f-a6f9-be33d1be953d" />
 
+### 2. AI Copilot
+<img width="1920" height="1080" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/5976ab2a-129a-4e8b-9788-2a4258c0f300" />
 
 
-### 2. Admin Dashboard
+### 3. Agent-1
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/3ba570be-f434-42de-9262-fbfdab8968a8" />
+
+### 4. Agent-2
+
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/8a0cf18f-8126-4946-9dc8-59a785a484cb" />
+
+### 5. Agent-3
+<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/8ddde081-f60f-438e-95d2-3905e885f05f" />
+
+### 6. Agent-4
+
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/791bd916-3e79-4c44-996b-bf07db13e289" />
+
+### 7. Agent-5
+<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/f96d8b8d-b40b-4a1c-a691-b67886eb20c5" />
+
+### 8. Agent-6
+<img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/abc43634-06b5-4a70-b170-74efa11132d5" />
+
+### 9. Agent-7
+<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/371687d7-d4fc-471c-99c9-c40ddac6e082" />
+
+### 10. Agent-8
+
+<img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/86a2ecb4-e738-4743-a864-504245019783" />
+
+### 11. Agent-9
+
+<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/8b7e6696-dd89-4a62-a7ad-2d0c3d3c264f" />
+
+### 12. Digital Twin
+<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/086a7b4d-5411-4ab7-a63d-def2a6cc9f77" />
+
+
+### 13. Admin Dashboard
 <img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/2e51aa64-4de3-4024-ba8d-9ef5aeab66a1" />
 
 
-### 3. AI Copilot
-<img width="1920" height="1080" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/5976ab2a-129a-4e8b-9788-2a4258c0f300" />
-
-### 4. One Core Agent
-
-<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/eb21df5e-4319-453c-b6d7-eca1aab7a74e" />
-
-### 5. Forgot Password/OTP flow
+### 14. Forgot Password
 
 <img width="1920" height="1080" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/ae7a8a35-136b-4f7d-8c33-a2dbb9fbc730" />
 
+### 15.OTP Flow
 
+<img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/88453edb-62f6-4a17-a000-5c30dae1017e" />
 
 
 
