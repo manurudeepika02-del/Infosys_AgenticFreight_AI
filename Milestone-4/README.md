@@ -142,7 +142,7 @@ Together, these three notebooks form a complete pipeline: **data & model trainin
 
 <img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/86a2ecb4-e738-4743-a864-504245019783" />
 
-### 11. Agent-9
+### 11. Notification
 
 <img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/8b7e6696-dd89-4a62-a7ad-2d0c3d3c264f" />
 
