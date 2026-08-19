@@ -48,7 +48,10 @@
 
 **Solution Summary:** FreightQuote AI is a role-aware Streamlit portal backed by a SQLite data layer and a suite of 9 specialised reasoning agents. An intent router classifies each query (shipment, pricing, weather, or customs) and hands it to the right agent, which pulls facts straight from the database. A local Qwen2.5 LLM (with automatic fallback to a smaller model) turns those retrieved facts into a natural-language answer — never inventing numbers. The result is a maritime freight copilot that is transparent about its ML models, safe with secrets, and usable by every role in the brokerage, from admin to client.
 
-**Architecture Overview:** The system follows a 4-layer pattern — Data → Reasoning Tools → Orchestration → Generation (see diagram below).
+**Architecture Overview:** 
+
+<img width="1360" height="1240" alt="architecture-diagram" src="https://github.com/user-attachments/assets/cb1e30dc-fadd-4733-8787-f30b1a25ba6a" />
+
 
 **Key Differentiators:**
 - **Grounded generation** — the LLM answers only from retrieved database facts; no hallucinated numbers.
