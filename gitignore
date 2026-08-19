@@ -1,0 +1,38 @@
+# Secrets — never commit real values
+.env
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights / caches
+.cache/
+hf_models/
+
+# RAG index artifacts (regenerated at runtime)
+*.faiss
+*.index
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+server.log
