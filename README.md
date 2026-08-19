@@ -34,8 +34,8 @@
 
 | Name | Role / What They Built | GitHub Handle |
 |---|---|---|
-| Alakshya Nilesh Salvi | Authentication module (login, registration, RBAC) and Gmail OTP integration | — |
-| Simran Kapoor | AI Copilot, LLM engine, and RAG pipeline (FAISS/BM25 hybrid retrieval, RAG Builder notebook) | — |
+| Alakshya Nilesh Salvi | Authentication module (login, registration, RBAC) and Gmail OTP integration | @AlexSalviIQ |
+| Simran Kapoor | AI Copilot, LLM engine, and RAG pipeline (FAISS/BM25 hybrid retrieval, RAG Builder notebook) | @simrankapoor33 |
 | Nadendla Padhvika | Freight & pricing agents (Route Intelligence, Dynamic Pricing, Margin Predictor) and analytics dashboards | — |
 | S Uday Gowda | Admin Dashboard, database design/seeding, deployment (FastAPI backend, Cloudflare Tunnel), and Data Pipeline/ML Trainer notebook | — |
 | Manuru Deepika | UI theme design, Multilingual Translation Studio, and documentation | @manurudeepika02-del |
