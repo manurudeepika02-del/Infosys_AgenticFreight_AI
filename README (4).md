@@ -1,4 +1,4 @@
-# 🚢 Agentic AI for Maritime Freight Pricing and Route Optimization
+# ⚡ Agentic AI for Maritime Freight Pricing and Route Optimization
 ### Codename: **FreightQuote AI**
 
 *An agentic decision-support copilot for an ocean-freight brokerage — grounded routing, pricing, weather, and compliance answers.*
@@ -223,16 +223,25 @@ Password: admin123
 
 ## Screenshots / GIFs
 
-*Add 3–6 screenshots here: login screen, main dashboard, one agent tab, the AI Copilot answering a grounded question, and the Admin Dashboard.*
+## 1. Login Page
 
-```
-docs/screenshots/
-├── login.png
-├── dashboard.png
-├── agent-example.png
-├── ai-copilot.png
-└── admin-dashboard.png
-```
+<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/efefc0d5-adf2-4d41-bc63-73696d21b22d" />
+
+## 2. Agent
+
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/aaf20500-9549-4b28-97e0-17e2d7b7d1ac" />
+
+## 3. Admin Dashboard
+
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/48e32f9b-93a9-41b0-a72a-f0c189764a51" />
+
+## 4. Reset Password
+
+<img width="1920" height="1080" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/8bfe820f-362f-4115-b88c-4a75db9c6a6b" />
+
+## 5. OTP Flow
+
+<img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/fe63c005-307e-4d2b-954d-76577611dfd6" />
 
 ---
 
