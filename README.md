@@ -346,9 +346,11 @@ flask>=3.0
 
 ## Demo Video
 
-*Place the demo at `docs/demo/demo.mp4` (silent, 2–5 minutes, under 25 MB, 720p) and link it here — or link to an unlisted YouTube/Drive video if compression isn't enough:*
 
-`[Watch the demo](docs/demo/demo.mp4)`
+https://github.com/user-attachments/assets/96da04e1-e2b6-493e-b318-fe699ed40735
+
+
+
 
 The demo should show, in order: login → OTP forgot-password flow → a core agent → the AI Copilot → the Admin Dashboard. Record with a fresh/dummy account — never demo using real personal Gmail credentials or a real OTP inbox on screen.
 
